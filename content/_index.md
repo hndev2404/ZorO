@@ -1,17 +1,15 @@
 ---
-title: My Site
+title: Zero or One
 toc: false
 ---
 
-This is the landing page.
+Welcome you to my personal technical docs & blog.
 
 ## Explore
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+  {{< card link="docs" title="Technical Docs" icon="book-open" >}}
+  {{< card link="about" title="Blog" icon="fire" >}}
 {{< /cards >}}
 
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+For more information about me, visit [About](/about).
