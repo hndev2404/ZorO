@@ -1,1 +1,1 @@
-# ZerO - Technical Docs
+# ZorO - Technical Docs
